@@ -1,0 +1,6 @@
+framework module Pods_MyListApp {
+  umbrella header "Pods-MyListApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
